@@ -1,0 +1,245 @@
+[
+  {
+    "page": 1,
+    "figure": "Fig. 6",
+    "citation": "Gendre et al., 2026, EPSL 690, 120159",
+    "doi": "10.1016/j.epsl.2026.120159",
+    "pdf_page": 9,
+    "asset": "gendre2026_fig6_stem.png",
+    "limits": "87 GPa样品淬火后高倍率STEM-EDXS/HAADF；包括Fp、CaPv等多相，不是纯Brg两相，也不是当前CMB条件；不代表孤立vs连通形态的定量对照。"
+  },
+  {
+    "page": 2,
+    "figure": "Fig. 1",
+    "citation": "Garnero & McNamara, 2008, Science 320, 626–628",
+    "doi": "10.1126/science.1148028",
+    "pdf_page": 1,
+    "asset": "garnero2008_fig1.png",
+    "limits": "综合地震学和解释示意；图内High T/high rho、pPv等标记含当时提出的解释，不应作为已确定的所有LLSVP组成。图注蓝红颜色表示速度高低，非直接温度测量。"
+  },
+  {
+    "page": 3,
+    "figure": "Fig. 2a, complete lower-mantle subpanel",
+    "citation": "Garnero, McNamara & Shim, 2016, Nature Geoscience 9, 481–489",
+    "doi": "10.1038/ngeo2733",
+    "pdf_page": 3,
+    "asset": "garnero2016_fig2a_lower.png",
+    "limits": "原图上方地表/上地幔子图未包含，需注明Fig.2a下地幔部分；保留此子图所有坐标和标记。不是定量比例的局地ULVZ几何模型。"
+  },
+  {
+    "page": 4,
+    "figure": "Fig. 18",
+    "citation": "McNamara, 2019, Tectonophysics 760, 199–220",
+    "doi": "10.1016/j.tecto.2018.04.015",
+    "pdf_page": 14,
+    "asset": "mcnamara2019_fig18.png",
+    "limits": "图注称average seismic velocity reductions，图由Ed Garnero提供并据Garnero1998着色；红线含D″背景2–3%降速。不是Rost2005/2006同一案例，没有密度曲线，不得将本图10/30与Rost8/24/+10拼成同一组反演数据。 原图标题包含“partially molten lower mantle rock”，这是图示的部分熔融解释，不是对全部ULVZ成因的唯一判定。"
+  },
+  {
+    "page": 6,
+    "figure": "Fig. 5",
+    "citation": "Kim et al., 2026, Science Advances 12, eadz1962",
+    "doi": "10.1126/sciadv.adz1962",
+    "pdf_page": 7,
+    "asset": "kim2026_fig5.png",
+    "limits": "更支持Hawaii富铁固态端元；不是所有ULVZ的统一解释。论文允许富铁岩石少量熔融，不能排除全球部分熔融。"
+  },
+  {
+    "page": 7,
+    "figure": "Fig. 4",
+    "citation": "Dannberg et al., 2021, GJI 227, 1028–1059",
+    "doi": "10.1093/gji/ggab242",
+    "pdf_page": 9,
+    "asset": "dannberg2021_fig4.png",
+    "limits": "这是作者简化热力学模型，不是直接实验热导率；图中Fe-bearing endmember摩尔比例不是通用FeO质量分数。"
+  },
+  {
+    "page": 8,
+    "figure": "Fig. 10",
+    "citation": "Dannberg et al., 2021, GJI 227, 1028–1059",
+    "doi": "10.1093/gji/ggab242",
+    "pdf_page": 17,
+    "asset": "dannberg2021_fig10.png",
+    "limits": "两相动力学模拟。除no percolation外是迁移150 Myr后，均为100×50km裁切。不是地震观测；不能证明连通导致k下降。白线为30%孔隙率/解聚边界。"
+  },
+  {
+    "page": 9,
+    "figure": "Fig. 6",
+    "citation": "Gendre et al., 2026, EPSL 690, 120159",
+    "doi": "10.1016/j.epsl.2026.120159",
+    "pdf_page": 9,
+    "asset": "gendre2026_fig6_stem.png",
+    "limits": "87 GPa样品淬火后高倍率STEM-EDXS/HAADF；包括Fp、CaPv等多相，不是纯Brg两相，也不是当前CMB条件；不代表孤立vs连通形态的定量对照。"
+  },
+  {
+    "page": 9,
+    "figure": "Fig. 5",
+    "citation": "Gendre et al., 2026, EPSL 690, 120159",
+    "doi": "10.1016/j.epsl.2026.120159",
+    "pdf_page": 8,
+    "asset": "gendre2026_fig5.png",
+    "limits": "实验约束热力学模型，F为原岩浆库残余液体分数，不能直接当局部ULVZ熔体体积分数φ；不可说全曲线直接测量。"
+  },
+  {
+    "page": 10,
+    "figure": "Fig. 10, Δρ=480 kg/m³ panel",
+    "citation": "Dannberg et al., 2021, GJI 227, 1028–1059",
+    "doi": "10.1093/gji/ggab242",
+    "pdf_page": 17,
+    "asset": "dannberg2021_fig10_p480.png",
+    "limits": "直接裁切完整面板/色标，不改变数据；模拟形态不作为观测或导热率结果。"
+  },
+  {
+    "page": 10,
+    "figure": "Fig. 10, Δρ=−250 kg/m³ panel",
+    "citation": "Dannberg et al., 2021, GJI 227, 1028–1059",
+    "doi": "10.1093/gji/ggab242",
+    "pdf_page": 17,
+    "asset": "dannberg2021_fig10_m250.png",
+    "limits": "直接裁切完整面板/色标，不改变数据；模拟形态不作为观测或导热率结果。"
+  },
+  {
+    "page": 10,
+    "figure": "Fig. 10, shared Porosity colorbar",
+    "citation": "Dannberg et al., 2021, GJI 227, 1028–1059",
+    "doi": "10.1093/gji/ggab242",
+    "pdf_page": 17,
+    "asset": "dannberg2021_fig10_colorbar.png",
+    "limits": "直接裁切完整面板/色标，不改变数据；模拟形态不作为观测或导热率结果。"
+  },
+  {
+    "page": 10,
+    "figure": "Fig. 5",
+    "citation": "Gendre et al., 2026, EPSL 690, 120159",
+    "doi": "10.1016/j.epsl.2026.120159",
+    "pdf_page": 8,
+    "asset": "gendre2026_fig5.png",
+    "limits": "实验约束热力学模型，F为原岩浆库残余液体分数，不能直接当局部ULVZ熔体体积分数φ；不可说全曲线直接测量。"
+  },
+  {
+    "page": 11,
+    "figure": "Fig. 4 (complete 2×3 fields)",
+    "citation": "Guerrero et al., 2024, EPSL 637, 118699",
+    "doi": "10.1016/j.epsl.2024.118699",
+    "pdf_page": 9,
+    "asset": "guerrero2024_fig4.png",
+    "limits": "2D global mantle simulations of solid primordial reservoirs at model time 4.5 Gyr, B=0.23. Not partial-melt ULVZ simulation and not empirical survival ages. Low conductivity need not imply dynamical stability. Keep n, dH_prim, colorbar and structure-line legend."
+  },
+  {
+    "page": 12,
+    "figure": "Fig. 1",
+    "citation": "Gendre et al., 2026, EPSL 690, 120159",
+    "doi": "10.1016/j.epsl.2026.120159",
+    "pdf_page": 4,
+    "asset": "gendre2026_fig1_stem.png",
+    "limits": "57 GPa LH-DAC实验后STEM-EDXS/HAADF；存在温度梯度、由外向内结晶，图中熔体口袋是淬火前熔融区域。不是135 GPa原位形貌，不是天然ULVZ，不是润湿薄膜热导率数据。"
+  },
+  {
+    "page": 13,
+    "figure": "Fig. 3",
+    "citation": "Dragulet & Stixrude, 2025, PNAS 122, e2509771122",
+    "doi": "10.1073/pnas.2509771122",
+    "pdf_page": 3,
+    "asset": "dragulet2025_fig3.png",
+    "limits": "Electronic k_el of homogeneous silicate liquids; not classical-GK atomic heat transport and not two-phase k_eff. Keep all X_Fe, P/T labels, log axis and curves."
+  },
+  {
+    "page": 13,
+    "figure": "Fig. 3",
+    "citation": "Gendre et al., 2026, EPSL 690, 120159",
+    "doi": "10.1016/j.epsl.2026.120159",
+    "pdf_page": 6,
+    "asset": "gendre2026_fig3_phase.png",
+    "limits": "四个压力53/87/107/133 GPa；背景为模型温度，橙色共结线为热力学拟合，不能说全图直接实测，也不能把结晶路径当现今局部ULVZ熔体分数。"
+  },
+  {
+    "page": 15,
+    "figure": "Fig. 6",
+    "citation": "Gendre et al., 2026, EPSL 690, 120159",
+    "doi": "10.1016/j.epsl.2026.120159",
+    "pdf_page": 9,
+    "asset": "gendre2026_fig6_stem.png",
+    "limits": "87 GPa样品淬火后高倍率STEM-EDXS/HAADF；包括Fp、CaPv等多相，不是纯Brg两相，也不是当前CMB条件；不代表孤立vs连通形态的定量对照。"
+  },
+  {
+    "page": 16,
+    "figure": "Fig. 1",
+    "citation": "Deng et al., 2026, Nature 650, 361–366",
+    "doi": "10.1038/s41586-025-10063-5",
+    "pdf_page": 2,
+    "asset": "deng2026_fig1_crystallization.png",
+    "limits": "MgSiO3结晶/熔融原子模拟；主要125 GPa，4900/4975 K，MLP无Fe。不是热导率/GK计算，也不是本课题结果。"
+  },
+  {
+    "page": 18,
+    "figure": "Fig. 10",
+    "citation": "Dannberg et al., 2021, GJI 227, 1028–1059",
+    "doi": "10.1093/gji/ggab242",
+    "pdf_page": 17,
+    "asset": "dannberg2021_fig10.png",
+    "limits": "两相动力学模拟。除no percolation外是迁移150 Myr后，均为100×50km裁切。不是地震观测；不能证明连通导致k下降。白线为30%孔隙率/解聚边界。"
+  },
+  {
+    "page": 19,
+    "figure": "Fig. 5",
+    "citation": "Gendre et al., 2026, EPSL 690, 120159",
+    "doi": "10.1016/j.epsl.2026.120159",
+    "pdf_page": 8,
+    "asset": "gendre2026_fig5.png",
+    "limits": "实验约束热力学模型，F为原岩浆库残余液体分数，不能直接当局部ULVZ熔体体积分数φ；不可说全曲线直接测量。"
+  },
+  {
+    "page": 20,
+    "figure": "Fig. 5",
+    "citation": "Kim et al., 2026, Science Advances 12, eadz1962",
+    "doi": "10.1126/sciadv.adz1962",
+    "pdf_page": 7,
+    "asset": "kim2026_fig5.png",
+    "limits": "更支持Hawaii富铁固态端元；不是所有ULVZ的统一解释。论文允许富铁岩石少量熔融，不能排除全球部分熔融。"
+  },
+  {
+    "page": 21,
+    "figure": "Fig. 10",
+    "citation": "Dannberg et al., 2021, GJI 227, 1028–1059",
+    "doi": "10.1093/gji/ggab242",
+    "pdf_page": 17,
+    "asset": "dannberg2021_fig10.png",
+    "limits": "两相动力学模拟。除no percolation外是迁移150 Myr后，均为100×50km裁切。不是地震观测；不能证明连通导致k下降。白线为30%孔隙率/解聚边界。"
+  },
+  {
+    "page": 21,
+    "figure": "Fig. 6",
+    "citation": "Gendre et al., 2026, EPSL 690, 120159",
+    "doi": "10.1016/j.epsl.2026.120159",
+    "pdf_page": 9,
+    "asset": "gendre2026_fig6_stem.png",
+    "limits": "87 GPa样品淬火后高倍率STEM-EDXS/HAADF；包括Fp、CaPv等多相，不是纯Brg两相，也不是当前CMB条件；不代表孤立vs连通形态的定量对照。"
+  },
+  {
+    "page": 22,
+    "figure": "Fig. 1",
+    "citation": "Boukaré et al., 2025, Nature 640, 114–119",
+    "doi": "10.1038/s41586-025-08701-z",
+    "pdf_page": 2,
+    "asset": "boukare2025_fig1.png",
+    "limits": "Multiphase simulation of mushy magma-ocean solidification, not observation of modern ULVZ. Preserve all three rows and colorbars; do not imply all modern ULVZs are BMO relics."
+  },
+  {
+    "page": 23,
+    "figure": "Table 2",
+    "citation": "Gendre et al., 2026, EPSL 690, 120159",
+    "doi": "10.1016/j.epsl.2026.120159",
+    "pdf_page": 4,
+    "asset": "gendre2026_table2.png",
+    "limits": "Mass-based concentration ratio; not Fe/Mg exchange KD. Ratios from molar concentration similar within error; not universal for every ULVZ condition."
+  },
+  {
+    "page": 24,
+    "figure": "Fig. 3",
+    "citation": "Dragulet & Stixrude, 2025, PNAS 122, e2509771122",
+    "doi": "10.1073/pnas.2509771122",
+    "pdf_page": 3,
+    "asset": "dragulet2025_fig3.png",
+    "limits": "Electronic k_el of homogeneous silicate liquids; not classical-GK atomic heat transport and not two-phase k_eff. Keep all X_Fe, P/T labels, log axis and curves."
+  }
+]
