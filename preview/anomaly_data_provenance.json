@@ -1,0 +1,44 @@
+{
+  "case": "Representative regional ScP ULVZ model reported by Rost et al. (2005, 2006), as summarized by Dannberg et al. (2021)",
+  "source_doi": "10.1093/gji/ggab242",
+  "source_pdf_page": 21,
+  "source_journal_page": 1048,
+  "original_studies": [
+    {
+      "citation": "Rost, Garnero, Williams & Manga (2005), Nature 435, 666–669",
+      "title": "Seismological constraints on a possible plume root at the core–mantle boundary",
+      "doi": "10.1038/nature03620"
+    },
+    {
+      "citation": "Rost, Garnero & Williams (2006), JGR 111",
+      "doi": "10.1029/2005JB004088",
+      "title": "Fine-scale ultralow-velocity zone structure from high-frequency seismic array data"
+    }
+  ],
+  "baseline": "surrounding mantle = 100%, not substituted using another study's absolute reference velocities",
+  "values": [
+    {
+      "parameter": "Vp",
+      "delta_percent": -8,
+      "normalized_percent": 92
+    },
+    {
+      "parameter": "Vs",
+      "delta_percent": -24,
+      "normalized_percent": 76
+    },
+    {
+      "parameter": "density",
+      "delta_percent": 10,
+      "normalized_percent": 110,
+      "approximate": true
+    }
+  ],
+  "limits": [
+    "Regional inversion model, not global universal values",
+    "Density jump and velocity gradient are amplitude-dependent and less robust than travel-time constraints",
+    "No invented error bars",
+    "Percentages were algebraically normalized, not re-inverted from waveforms"
+  ],
+  "bibliographic_verification": "https://github.com/ULVZ-Database/ULVZ-Database (public scientific data repository)"
+}
