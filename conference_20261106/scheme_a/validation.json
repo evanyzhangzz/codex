@@ -1,0 +1,100 @@
+{
+  "source_version": "CEMPG2026_zpy_v1.pptx",
+  "main_slides": 19,
+  "separate_backup_slides": 4,
+  "background_slides_before": 4,
+  "background_slides_after": 2,
+  "background_page_reduction": "50%",
+  "aspect_ratio": "16:9 exact; unchanged from v1",
+  "unchanged_slides_except_page_number": [
+    {
+      "new_page": 1,
+      "v1_page": 1
+    },
+    {
+      "new_page": 2,
+      "v1_page": 2
+    },
+    {
+      "new_page": 6,
+      "v1_page": 8
+    },
+    {
+      "new_page": 7,
+      "v1_page": 9
+    },
+    {
+      "new_page": 8,
+      "v1_page": 10
+    },
+    {
+      "new_page": 9,
+      "v1_page": 11
+    },
+    {
+      "new_page": 10,
+      "v1_page": 12
+    },
+    {
+      "new_page": 11,
+      "v1_page": 13
+    },
+    {
+      "new_page": 12,
+      "v1_page": 14
+    },
+    {
+      "new_page": 13,
+      "v1_page": 15
+    },
+    {
+      "new_page": 14,
+      "v1_page": 16
+    },
+    {
+      "new_page": 15,
+      "v1_page": 17
+    },
+    {
+      "new_page": 16,
+      "v1_page": 18
+    },
+    {
+      "new_page": 17,
+      "v1_page": 19
+    },
+    {
+      "new_page": 18,
+      "v1_page": 20
+    },
+    {
+      "new_page": 19,
+      "v1_page": 21
+    }
+  ],
+  "header_navigation_elements": "original XML preserved",
+  "original_scientific_image_blobs_preserved": true,
+  "intentional_crop_expansion": "New slide 3: top crop 0.46296 → 0.435, restoring Distance (km) axis title; no image pixels modified",
+  "animated_gifs_preserved": [
+    {
+      "main_page": 8,
+      "frames": 61,
+      "sha256": "9b4608bfaeed53f22ada30ebf5e33c951d16dfadbe0b15d9393b02ff72639acc"
+    },
+    {
+      "main_page": 9,
+      "frames": 158,
+      "sha256": "1787a6b525ca4cb75f0af8282fa80f54d0289233aea441845f2286124c0a1b73"
+    }
+  ],
+  "backup_original_pages": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "native_text_and_subscripts": true,
+  "render_issues": [],
+  "main_sha256": "cf976783f6633707bef401cfac3f352f57b6b8dca596877e58d56419453f6122",
+  "backup_sha256": "9a0ec156f94572c72d6a2b0379fb6dbf48788126c44487453ca36080435daf20"
+}
