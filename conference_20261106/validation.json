@@ -1,0 +1,29 @@
+{
+  "slides": 20,
+  "aspect_ratio": "16:9 exact",
+  "scientific_text_preserved": "20/20",
+  "scientific_image_blobs_and_crop_preserved": "18/18 content slides",
+  "native_office_math_preserved": true,
+  "animated_gifs": [
+    {
+      "slide": 9,
+      "frames": 61,
+      "sha256": "9b4608bfaeed53f22ada30ebf5e33c951d16dfadbe0b15d9393b02ff72639acc"
+    },
+    {
+      "slide": 10,
+      "frames": 158,
+      "sha256": "1787a6b525ca4cb75f0af8282fa80f54d0289233aea441845f2286124c0a1b73"
+    }
+  ],
+  "package_integrity": "pass",
+  "render_issues": [],
+  "render_notes": [
+    {
+      "slide": 10,
+      "render_note": "OfficeMath definition partly rendered as graphics; visually verified"
+    }
+  ],
+  "editable_text_shapes": 257,
+  "sha256": "fec829d6484945c732f4819b4fd857a03b3895b4526333065a81f5de2d9117a2"
+}
