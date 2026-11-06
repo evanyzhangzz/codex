@@ -1,0 +1,18 @@
+{
+  "slides": 1,
+  "aspect_ratio": "16:9 exact; same as background slides",
+  "header_logo_navigation": "original XML unchanged",
+  "logic": "pre-existing evidence → open material-property question → independent endpoint and whole-rock tests",
+  "mechanism_or_result_presupposed": false,
+  "visible_assumed_result_terms": [],
+  "scientific_logic_review": "two independent agent checks found no presupposed mechanism",
+  "all_main_text_shapes_editable": true,
+  "notes_include_same_PT_carbonate_free_host_baseline": true,
+  "package_integrity": "pass",
+  "render_missing_CJK": [],
+  "ai_generated_images": 0,
+  "editable_text_shapes": 16,
+  "native_shapes_and_lines": 14,
+  "logo_image_placements": 1,
+  "sha256": "553c5b4e3138230def7cb928066006cec04332a56a7c3e0de8f47a695aa1cd46"
+}
