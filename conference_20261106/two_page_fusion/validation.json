@@ -1,0 +1,36 @@
+{
+  "slides": 2,
+  "aspect_ratio": "16:9, exact; same as v1",
+  "source": "CEMPG2026_zpy_v1.pptx, background pages 3–6",
+  "v1_header_logo_navigation_xml": "unchanged",
+  "original_scientific_image_placements": 9,
+  "scientific_image_blobs": "all match source originals",
+  "coverage": {
+    "page1": [
+      "MLD receiver-function section",
+      "80–120 km",
+      "Vs reduction 2–7%",
+      "partial melting",
+      "grain-boundary sliding",
+      "anisotropy layering",
+      "metasomatic mineral enrichment"
+    ],
+    "page2": [
+      "carbonate melt–peridotite experiment",
+      "diamond inclusion with calcite Cc and 2µm scale bar",
+      "complete CaCO3 phase diagram",
+      "in-situ XRD",
+      "high-temperature disordered solid",
+      "elasticity and whole-rock wave-speed gap"
+    ]
+  },
+  "editable_text_and_shapes": true,
+  "full_slide_image_backgrounds": 0,
+  "ai_generated_images": 0,
+  "package_integrity": "pass",
+  "render_issues": [],
+  "editable_textboxes": 40,
+  "editable_shapes": 28,
+  "picture_placements": 11,
+  "sha256": "64cd1acad870a21c1769f0c392b63e718affc769f575d3480a34be20f6f336d9"
+}
